@@ -3,7 +3,7 @@
 ![Twitter follow](https://img.shields.io/twitter/follow/enzocuellar8?style=social)
 
 - 🔭 I’m currently working on side projects with React, Nextjs, TailwindCSS, TypeScript
-- 🌱 I’m currently learning NodeJS, backend general
+- 🌱 I’m currently learning NodeJS, backend in general
 
 ---
 
