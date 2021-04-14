@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Enzo Cuellar
 
-<!--
-**devenzo35/devenzo35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter follow](https://img.shields.io/twitter/url?style=social&url=enzocuellar8)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on side projects with React, Nextjs, TailwindCSS, TypeScript
+- 🌱 I’m currently learning NodeJS, backend general
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧰 Toolbox
+
+ <img src="https://worldvectorlogo.com/logo/typescript" alt="TypeScript Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/react-1" alt="React Logo" width="50" height="50"/>  <img src="https://worldvectorlogo.com/logo/tailwindcss" alt="tailwindcss Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/nextjs-3" alt="next Logo" width="50" height="50"/>  <img src="https://worldvectorlogo.com/logo/figma-1" alt="figma Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/redux" alt="redux Logo" width="50" height="50"/>  <img src="https://worldvectorlogo.com/logo/sass-1" alt="sass Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/git-icon" alt="git Logo" width="50" height="50"/>
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devenzo35&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
