@@ -2,8 +2,7 @@
 
 ![Twitter follow](https://img.shields.io/twitter/follow/enzocuellar8?style=social)
 
-- 🔭 I’m currently working on side projects with React, Nextjs, TailwindCSS, TypeScript
-- 🌱 I’m currently learning NodeJS, backend in general
+I'm a Frontend Developer, at present working on freelance and personal projects building websites and web apps, I love to give life to the web through styles and functionalities, and also that these resolve the needs and problems of the people.
 
 ---
 
