@@ -1,16 +1,37 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Enzo Cuellar
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Enzo Cuellar
 
-![Twitter follow](https://img.shields.io/twitter/follow/enzocuellar8?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/enzocuellar8?style=social)
 
-I'm a Frontend Developer, at present working as a freelancer, and building personal projects in my free time </br> also I'm willing to collaborate on open source projects, I love to give life to the web through styles and functionalities </br> and also that these resolve the needs and problems of the people.
+I'm a **freelance data analyst** currently working on personal projects and always looking for opportunities to contribute to open-source communities.  
+I love transforming raw data into meaningful insights and bringing the web to life through design and functionality that solve real-world problems.
 
 ---
 
-🧰 Toolbox
+### 🧰 Tech Toolbox
 
- <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python Logo" width="50" height="50"/>
+<div align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
+</div>
+
 ---
 
-
+### 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devenzo35&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🚀 What I'm working on
+
+- Building complete data projects: from SQL to dashboards
+- Learning advanced Python for data analytics and automation
+- Developing interactive web tools for data visualization
+
+---
+
+### 📫 Let's connect!
+
+- Twitter: [@enzocuellar8](https://twitter.com/enzocuellar8)
+- GitHub: [devenzo35](https://github.com/devenzo35)
+- Email: enzocuellar12@gmail.com
+
