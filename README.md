@@ -11,15 +11,11 @@ I love transforming raw data into meaningful insights and bringing the web to li
 
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="80" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="60" height="40"/>
+  
 </div>
-
----
-
-### 📈 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devenzo35&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### 🚀 What I'm working on
 
