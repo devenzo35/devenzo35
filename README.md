@@ -27,6 +27,8 @@ I love transforming raw data into meaningful insights and bringing the web to li
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devenzo35&theme=tokyonight)
+
 ### 📫 Let's connect!
 
 - Twitter: [@enzocuellar8](https://twitter.com/enzocuellar8)
