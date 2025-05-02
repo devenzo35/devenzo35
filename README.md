@@ -27,7 +27,7 @@ I love transforming raw data into meaningful insights and bringing the web to li
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devenzo35&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devenzo35&theme=gruvbox)
 
 ### 📫 Let's connect!
 
