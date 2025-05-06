@@ -7,19 +7,30 @@ I love transforming raw data into meaningful insights and bringing the web to li
 
 ---
 
-### 🧰 Tech Toolbox
+## 🧰 Tech Toolbox
 
+### Data Analysis
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Power BI" width="80" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="80" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Excel" width="60" height="40"/>
-  
 </div>
 
-### 🚀 What I'm working on
+### DB 
+<div align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+</div>
+
+### Big Data & Data Engineering
+<div align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Excel" width="60" height="40"/>
+</div>
+
+## 🚀 What I'm working on
 
 - Building complete data projects: from SQL to dashboards
 - Learning advanced Python for data analytics and automation
