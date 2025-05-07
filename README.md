@@ -14,9 +14,8 @@ I love transforming raw data into meaningful insights and bringing the web to li
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Python" width="40" height="40"/>
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="80" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="80" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="80" height="40"/>
 </div>
 
 ### DB 
