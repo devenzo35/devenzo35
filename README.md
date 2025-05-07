@@ -2,8 +2,12 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/enzocuellar8?style=social)
 
-I'm a **freelance data analyst** currently working on personal projects and always looking for opportunities to contribute to open-source communities.  
-I love transforming raw data into meaningful insights and bringing the web to life through design and functionality that solve real-world problems.
+I'm a self-taught developer with a genuine curiosity for how things work—especially when it comes to data, automation, and the systems running under the hood.
+Right now, I'm exploring the world of data analytics, big data, and writing scripts that help make life a little easier (or at least less repetitive).
+
+I’ve worked as a frontend developer before, but over time I’ve gravitated more toward the data side of things. I started learning to code on my own, and today I'm studying mathematics while deepening my skills in data engineering and analytics.
+
+Always learning, always building—one small project at a time.
 
 ---
 
@@ -33,7 +37,7 @@ I love transforming raw data into meaningful insights and bringing the web to li
 ## 🚀 What I'm working on
 
 - Building complete data projects: from SQL to dashboards
-- Learning advanced Python for data analytics and automation
+- Learning advanced SQL to extract, transform, and analyze data efficiently
 - Developing interactive web tools for data visualization
 
 ---
