@@ -21,7 +21,8 @@ After working in frontend, I naturally shifted toward backend systems and data i
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="60" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" width="60" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/AirflowLogo.svg" alt="Apache Airflow" width="60" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/AirflowLogo.svg" alt="Apache Airflow Logo" width="60" height="40">
+
 
 </div>
 
