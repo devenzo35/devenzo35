@@ -17,18 +17,11 @@ After working in frontend, I naturally shifted toward backend systems and data i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
 </div>
 
-### Data & Visualization  
-<div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Matplotlib" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="80" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="80" height="40"/>
-</div>
-
 ### Cloud & Orchestration  
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="60" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" width="60" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/apache-airflow.svg" alt="Airflow" width="60" height="40"/>
 </div>
 
 ---
