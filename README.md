@@ -17,7 +17,7 @@ After working in frontend, I naturally shifted toward backend systems and data i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
 </div>
 
-### Cloud & Orchestration  
+### Data Engineering & Cloud
 <div align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" alt="AWS" width="60" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" width="60" height="40"/>
